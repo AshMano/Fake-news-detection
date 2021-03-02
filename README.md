@@ -15,4 +15,4 @@ Detecting fake news with Python
 2) Split data into training and testing sets
 3) Build a TfidfVectorizer 
 4) Initialize a PassiveAggressive, Logistic Regression, Decision Tree, Gradient Boosting, Random Forest and fit the model
-5) Testing model with manuel entry
+5) Testing model with manual entry
