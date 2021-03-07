@@ -7,7 +7,7 @@ All news are not real, right? So how will you detect the fake news? The answer i
 What is Fake News?
 False information disseminated with the aim of manipulating the public
 
-The Dataset 
+The Dataset  
 The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. 
 
 Detecting fake news with Python
